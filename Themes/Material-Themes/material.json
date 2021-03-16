@@ -1,0 +1,168 @@
+{
+  "name" : "MaterialOceanic",
+    
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#546E7A",
+
+    "background" : "#263238",
+    "foreground" : "#B0BEC5",
+
+    "black" : "#0C0C0C",
+    "blue" : "#82aaff",
+    "cyan" : "#89ddff",
+    "green" : "#c3e88d",
+    "purple" : "#c792ea",
+    "orange":"#f78c6c",
+    "red" : "#f07178",
+    "gray":"#546e7a",
+    "white" : "#eeffff",
+    "yellow" : "#ffcb6b",
+    "brightBlack" : "#767676",
+    "brightBlue" : "#3B78FF",
+    "brightCyan" : "#61D6D6",
+    "brightGreen" : "#16C60C",
+    "brightPurple" : "#B4009E",
+    "brightRed" : "#E74856",
+    "brightWhite" : "#F2F2F2",
+    "brightYellow" : "#F9F1A5"
+}
+{
+	"name" : "MaterialDark",
+    
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#404040",
+
+    "background" : "#212121",
+    "foreground" : "#B0BEC5",
+
+    "black" : "#0C0C0C",
+    "blue" : "#82aaff",
+    "cyan" : "#89ddff",
+    "green" : "#c3e88d",
+    "purple" : "#c792ea",
+    "orange":"#f78c6c",
+    "red" : "#f07178",
+    "gray":"#616161",
+    "white" : "#eeffff",
+    "yellow" : "#ffcb6b",
+    "brightBlack" : "#767676",
+    "brightBlue" : "#3B78FF",
+    "brightCyan" : "#61D6D6",
+    "brightGreen" : "#16C60C",
+    "brightPurple" : "#B4009E",
+    "brightRed" : "#E74856",
+    "brightWhite" : "#F2F2F2",
+    "brightYellow" : "#F9F1A5"
+}
+{
+	"name" : "MaterialLighter",
+    
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#80CBC440",
+
+    "background" : "#FAFAFA",
+    "foreground" : "#546E7A",
+
+    "black" : "#0C0C0C",
+    "blue" : "#6182b8",
+    "cyan" : "#39adb5",
+    "green" : "#91b859",
+    "purple" : "#7c4dff",
+    "orange":"#f76d47",
+    "red" : "#e53935",
+    "gray":"#AABFC9",
+    "white" : "#272727",
+    "yellow" : "#f6a434",
+    "brightBlack" : "#767676",
+    "brightBlue" : "#3B78FF",
+    "brightCyan" : "#61D6D6",
+    "brightGreen" : "#16C60C",
+    "brightPurple" : "#B4009E",
+    "brightRed" : "#E74856",
+    "brightWhite" : "#F2F2F2",
+    "brightYellow" : "#F9F1A5"
+}
+{
+	"name" : "MaterialPalenight",
+    
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#717CB470",
+
+    "background" : "#292D3E",
+    "foreground" : "#A6ACCD",
+
+    "black" : "#0C0C0C",
+    "blue" : "#82aaff",
+    "cyan" : "#89ddff",
+    "green" : "#c3e88d",
+    "purple" : "#c792ea",
+    "orange":"#f78c6c",
+    "red" : "#f07178",
+    "gray":"#676E95",
+    "white" : "#eeffff",
+    "yellow" : "#ffcb6b",
+    "brightBlack" : "#767676",
+    "brightBlue" : "#3B78FF",
+    "brightCyan" : "#61D6D6",
+    "brightGreen" : "#16C60C",
+    "brightPurple" : "#B4009E",
+    "brightRed" : "#E74856",
+    "brightWhite" : "#F2F2F2",
+    "brightYellow" : "#F9F1A5"
+}
+{
+	"name" : "MaterialDracula",
+    
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#44475A",
+
+    "background" : "#282A36",
+    "foreground" : "#F8F8F2",
+
+    "black" : "#0C0C0C",
+    "blue" : "#79cbdc",
+    "cyan" : "#80ffea",
+    "green" : "#8aff80",
+    "purple" : "#9580ff",
+    "orange":"#f89580",
+    "red" : "#f780bf",
+    "gray":"#6272A4",
+    "white" : "#F8F8F2",
+    "yellow" : "#feff80",
+    "brightBlack" : "#767676",
+    "brightBlue" : "#3B78FF",
+    "brightCyan" : "#61D6D6",
+    "brightGreen" : "#16C60C",
+    "brightPurple" : "#B4009E",
+    "brightRed" : "#E74856",
+    "brightWhite" : "#F2F2F2",
+    "brightYellow" : "#F9F1A5"
+}
+{
+	"name" : "MaterialDeepOcean",
+    
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#717CB480",
+
+    "background" : "#0F111A",
+    "foreground" : "#8F93A2",
+
+    "black" : "#0C0C0C",
+    "blue" : "#82aaff",
+    "cyan" : "#89ddff",
+    "green" : "#c3e88d",
+    "purple" : "#c792ea",
+    "orange":"#f78c6c",
+    "red" : "#f07178",
+    "gray":"#717CB4",
+    "white" : "#eeffff",
+    "yellow" : "#ffcb6b",
+    "brightBlack" : "#767676",
+    "brightBlue" : "#3B78FF",
+    "brightCyan" : "#61D6D6",
+    "brightGreen" : "#16C60C",
+    "brightPurple" : "#B4009E",
+    "brightRed" : "#E74856",
+    "brightWhite" : "#F2F2F2",
+    "brightYellow" : "#F9F1A5"
+}
